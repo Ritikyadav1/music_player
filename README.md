@@ -42,7 +42,7 @@ The project consists of the following files:
 
 ## Screenshots
 
-![Music Player Screenshot](./music/laal_ishq.png)
+![Music Player Screenshot](music/laal_ishq.png)
 
 ## Future Improvements
 
