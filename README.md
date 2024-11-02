@@ -27,7 +27,7 @@ The project consists of the following files:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/spotify-clone-music-player.git
+    git clone https://github.com/Ritikyadav1/spotify-clone-music-player.git
     ```
 
 2. Open the `index.html` file in your browser to start the music player.
@@ -39,10 +39,6 @@ The project consists of the following files:
 - **HTML5**: For the structure of the app.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For handling music controls, playlist functionality, and audio playback.
-
-## Screenshots
-
-![Music Player Screenshot](music/laal_ishq.png)
 
 ## Future Improvements
 
